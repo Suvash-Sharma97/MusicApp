@@ -1,4 +1,4 @@
-# React App
+# Sangeet: A Music App
 
 A Simple react App like a Spotify clone
 
